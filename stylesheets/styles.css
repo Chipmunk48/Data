@@ -9,6 +9,6 @@
 
 .row {
     position: fixed;
-    left: 30px
-    top: 0
+    left: 0;
+    top: 0;
 }
