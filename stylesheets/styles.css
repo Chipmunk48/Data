@@ -8,6 +8,7 @@
 }
 
 .row {
-    position: relative;
+    position: static;
     left: 30px
+    top: 30px
 }
