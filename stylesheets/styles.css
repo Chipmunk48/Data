@@ -10,8 +10,9 @@
 
 .btn2:hover, btn2:active {
     background-color: #C0C0C0;
-    padding: 22px 2s;
-    font-size: 120%;
+    padding: 22px;
+    font-size: 140%;
+    animation-duration: 2s;
 }
 
 .row {
