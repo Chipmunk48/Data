@@ -33,4 +33,6 @@ a{
 
 .questions {
      font-size: 45px;
+     position: fixed;
+     left: 15%;
 }
