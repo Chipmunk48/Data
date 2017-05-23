@@ -38,6 +38,6 @@ a{
 }
 
 .mikeasleep {
-    position: fixed;
-    left: 25%;
+    position: static;
+    left: 20%;
 }
