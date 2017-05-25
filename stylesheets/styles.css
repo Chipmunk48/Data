@@ -48,13 +48,6 @@ a{
     top: -20%;
     left: 15%;
 }
-.box {
-     position:absolute;
-     z-index:-1;
-     top: -20%;
-     left: 12%;
-
-}
 
 .main-text {
     position: relative;
