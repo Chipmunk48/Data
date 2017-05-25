@@ -48,3 +48,8 @@ a{
     left: 15%;
 }
 
+.main-text {
+    position: relative;
+    font-size: 35px;
+    left: 15%
+}
