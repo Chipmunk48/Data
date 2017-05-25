@@ -36,7 +36,8 @@ a{
 .questions {
      font-size: 45px;
      position:absolute;
-     z-index:-1;
+     z-index:1;
+     left: 15%;
 
 
 }
@@ -46,6 +47,13 @@ a{
     z-index:-1;
     top: -20%;
     left: 15%;
+}
+.box {
+     position:absolute;
+     z-index:-1;
+     top: -20%;
+     left: 12%;
+
 }
 
 .main-text {
