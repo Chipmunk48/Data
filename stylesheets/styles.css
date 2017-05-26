@@ -89,24 +89,27 @@ a{
 .pubcaption {
     position: absolute;
     left: 5%;
-    top: 
+    top:52%
 }  
 
 .genrecaption {
     position: absolute;
     left: 55%;
-    top:
+    top:112%
 }  
 
 .platcaption {
     position: absolute;
-    left: 55%
+    left: 55%;
+    top: 52%;
 }  
 
-.salescaption {
+.yearcaption {
     position: absolute;
-    left: 5%
+    left: 5%;
+    top: 112%;
 }  
+
 .wii {
     width: 30%;
     height: 100%;
