@@ -23,7 +23,7 @@
 }
 
 .publishers {
-    position: fixed;
+    position: absolute;
     left: 5%;
     top: 15%;
 }
@@ -64,13 +64,13 @@ a{
 .year {
     position: absolute;
     left: 5%;
-    top: 125%;
+    top: 75%;
 }
 
 .genre {
     position: absolute;
     right: 5%;
-    top: 125%
+    top: 75%
 }
 .pubimage {
     position:absolute;
