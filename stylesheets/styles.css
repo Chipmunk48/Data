@@ -85,3 +85,19 @@ a{
     left: 18%; 
     font-size: 28px;
 }
+
+.pubcaption {
+    position: absolute;
+}  
+
+.genrecaption {
+    position: absolute;
+}  
+
+.platcaption {
+    position: absolute;
+}  
+
+.salescaption {
+    position: absolute;
+}  
