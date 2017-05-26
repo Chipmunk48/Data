@@ -70,6 +70,6 @@ a{
 .pubimage {
     position:absolute;
     z-index:-1;
-    top: 70%;
-    left: 0%;
+    top: 90%;
+    left: 10%;
 }
