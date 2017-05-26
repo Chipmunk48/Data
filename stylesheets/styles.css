@@ -24,7 +24,7 @@
 
 .publishers {
     position: fixed;
-    left: 15%;
+    left: 5%;
     top: 15%;
 }
 
@@ -55,21 +55,26 @@ a{
 }
 
 .platform {
-    position: relative;
-    left: 10%
+    position: absolute;
+    right: 5%;
+    top: 15%;
 
 }
 
-.Sales {
-
+.year {
+    position: absolute;
+    left: 5%;
+    top: 125%;
 }
 
 .genre {
-
+    position: absolute;
+    right: 5%;
+    top: 125%
 }
 .pubimage {
     position:absolute;
     z-index:-1;
-    top: 90%;
+    top: 50%;
     left: 10%;
 }
